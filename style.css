@@ -32,3 +32,9 @@ canvas {
 	justify-content: center;
 	text-align: center;
 }
+
+#startgame{
+	padding: 2%;
+	background-color: black;
+	color: white;
+}
