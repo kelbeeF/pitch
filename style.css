@@ -1,0 +1,34 @@
+* {
+	margin:0;
+	padding:0;
+
+}
+
+body{
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+}
+
+strong {
+	padding: 0 20px;
+}
+
+#discription,#randomnote,strong{
+	font-size: 20px;
+}
+
+#discription {
+	padding-bottom: 20px;
+}
+
+canvas {
+	background-color: black;
+}
+
+
+#randonnote {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
